@@ -1,0 +1,1 @@
+![Node.js kullanarak mail gönderme](Ekran görüntüsü 2025-02-24 005528.png)
