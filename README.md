@@ -1,1 +1,2 @@
-![Node.js kullanarak mail gönderme](image/Ekran görüntüsü 2025-02-24 005528.png)
+Node.js kullanarak mail göndermek
+![Node.js kullanarak mail gönderme](https://github.com/user-attachments/assets/d7eacb09-3dac-4351-b5c2-4911665e8459)
